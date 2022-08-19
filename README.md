@@ -8,7 +8,7 @@ A java based command-line application that uses Java Mail API to send emails and
 All the emails sent out by the email client is saved into the hard disk, in the form of objects – Object serialization. The user should be able to retrieve information of all the mails sent on a particular day by using a command-line option - Object deserialization.
 
 # Goals
-This program which support to send emails without accessing a browser and to serialize the emails that program sent.
+A program which support to send emails without accessing a browser and to serialize the emails that program sent.
 
 # Purpose
 This Application is used for sending emails to different types of recipients according to their positions.
@@ -18,7 +18,7 @@ This Application is used for sending emails to different types of recipients acc
 2. Sending emails were performed by using java mail.
 3. Mail Server like yahoo, Gmail, Hotmail, outlook can be used for accessing the mail send by the sender.
 
-Additional
+Additional - 
     Sent a birthday wish to saved recipients automatically when the program starts.
 
 # Deliverables
