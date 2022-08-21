@@ -18,8 +18,8 @@ public class Mail {
 		properties.put("mail.smtp.host", "smtp.gmail.com");
 		properties.put("mail.smtp.port", "587");
 		
-		String myAcc = "pasindumadusha.20@cse.mrt.ac.lk";
-		String password = "xrghoptxufqyiphe";
+		String myAcc = "your email address";
+		String password = "api";
 		
 		Session session = Session.getInstance(properties, new Authenticator() {
 			protected PasswordAuthentication getPasswordAuthentication() {
