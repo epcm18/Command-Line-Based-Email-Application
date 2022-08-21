@@ -1,4 +1,4 @@
-# Command-Line-Based-Email-Application
+# Command-Line-Based-java-email-client
 Simple command line base application that can send emails to any recipients. Implemented using java and oop concepts.
 
 # java email client
