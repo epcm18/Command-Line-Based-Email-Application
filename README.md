@@ -32,12 +32,12 @@ A command-line capable of:
 # Knowledge Areas Needed for Project
 1. Basic Programming Concepts
 2. Java Programming Language
+3. Object Orientated Programming Concepts
+4. Objects Serialization & Deserialization
 
 # Requirements
 1. JavaMail API
 2. Activation Jar file
-3. Object Orientated Programming Concepts
-4. Objects Serialization & Deserialization
 
 # General Constraints
 The sender email-id and password is required. The mail will be sent to particular server.
